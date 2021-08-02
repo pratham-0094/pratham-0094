@@ -1,4 +1,3 @@
-<hr>
 <h1 align="center">Hi 👋, I'm Pratham Sahu</h1>
 <p align="center"><b>Programmer || Front-end Developer || Open Source Enthusiast<b></p>
 
