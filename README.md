@@ -29,7 +29,7 @@
 </p>
   
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=PrathamSahu&show_icons=true&locale=en" alt="PrathamSahu" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pratham-0094&show_icons=true&locale=en" alt="PrathamSahu" />
 </p>
  
  <hr width="300px"><hr width="600px"><hr width="860px">
