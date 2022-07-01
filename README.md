@@ -39,7 +39,7 @@ Pursuing BTech CSE’24 from <b>Shri Shankaracharya Technical Campus</b>, Bhilai
 
 |Project Name|Description|
 |--------|:----|  
-|[React-Native-Apps](https://github.com/pratham-0094/React-Native-Apps)| In this repository I will be adding all my React NAtive Projects that are created using twitter, weather, city, news api| 
+|[React-Native-Apps](https://github.com/pratham-0094/React-Native-Apps)| In this repository I will be adding my React Native Apps that I created :- meal api and todo app. | 
 |[Portfolio](https://github.com/pratham-0094/angular-portfolio)| This is my own portfolio website [https://pratham-0094.github.io/angular-portfolio](https://pratham-0094.github.io/angular-portfolio)| 
 |[INO](https://github.com/prakhar-5447/INO)| A user-friendly app for student to share his/her socials like linktree or you can say this is android version of linktree with some extra features and also store your project details to use it on your web portfolio. |
 |[Juicy-N-Yummy](https://github.com/pratham-0094/Juicy-N-Yummy)| Juicy-N-Yummy is an platform for restaurant aggregator and food delivery. It provides information, menus and user-reviews of restaurants as well as food delivery options from partner restaurants in select cities. |
