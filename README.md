@@ -69,7 +69,7 @@ Pursuing BTech CSE’24 from <b>Shri Shankaracharya Technical Campus</b>, Bhilai
 <h1 align="center">Interest</h1>
 
 <p align="center">
- I have intrest in Graphic Designing and love to design UI Designs for website and android apps. Checkout my designs
+ I have interest in Graphic Designing and love to design UI Designs for website and android apps. Checkout my designs
  <a href="https://instagram.com/pixel8cloud">@pixel8cloud</a>.
 </p>
  
