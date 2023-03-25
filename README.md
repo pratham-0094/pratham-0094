@@ -66,8 +66,8 @@ Pursuing BTech CSE’24 from <b>Shri Shankaracharya Technical Campus</b>, Bhilai
 <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratham-0094&layout=compact">
 </div> 
  <div align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratham-0094&)">
- <img src="https://activity-graph.herokuapp.com/graph?username=pratham-0094&bg_color=FFFFFF&color=000000&line=000000&point=00FF00"></div>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratham-0094">
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=pratham-0094&bg_color=090912&color=9944aa&line=2f2f2f&point=9d9d9d&area=true&hide_border=true&theme=merko"></div>
  
 
 <h1 align="center">Interest</h1>
